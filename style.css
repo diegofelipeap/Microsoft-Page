@@ -28,6 +28,10 @@ header {
         cursor: pointer;
         color: #262626;
     }
+
+    .button-burger{
+        display: none;
+    }
 }
 
 .carousel-content {
@@ -252,4 +256,6 @@ footer {
         color: #616161;
         cursor: pointer;
     }
+
+    
 }

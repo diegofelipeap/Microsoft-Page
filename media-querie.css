@@ -1,0 +1,11 @@
+@media (max-width:480px)  {
+    header{
+        .breadcrumb-header{
+            display: none;
+        }
+
+        .button-burger{
+            display: block;
+        }
+    }
+}
